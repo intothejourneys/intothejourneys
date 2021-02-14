@@ -3,8 +3,8 @@
 I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comfortable experience.</br>
 ➜ My portfolio site : https://intothejourneys.github.io/portfolio
 
-![js](https://img.shields.io/badge/js-Javascript-yellow)
-![react](https://img.shields.io/badge/R-React-9cf)
+![js](https://img.shields.io/badge/Javascript-yellow)
+![react](https://img.shields.io/badge/React-9cf)
 ![js](https://img.shields.io/badge/js-Javascript-yellow)
 ![js](https://img.shields.io/badge/js-Javascript-yellow)
 ![js](https://img.shields.io/badge/js-Javascript-yellow)
