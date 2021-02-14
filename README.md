@@ -1,7 +1,9 @@
 ### Hello World! 🚀
 
+
 I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comfortable experience.</br>
 ➜ My portfolio site : https://intothejourneys.github.io/portfolio
+
 
 ![js](https://img.shields.io/badge/Javascript-yellow)
 ![react](https://img.shields.io/badge/React-9cf)
@@ -14,7 +16,11 @@ I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comforta
 ![ts](https://img.shields.io/badge/Typescript-blue)
 ![redux](https://img.shields.io/badge/Redux-blurviolet)
 
+<div align=center>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intothejourneys&show_icons=true&theme=cobalt)
+
+</div>
 
 <div align=center>
   
