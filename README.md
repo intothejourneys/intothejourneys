@@ -3,10 +3,11 @@
 I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comfortable experience.</br>
 ➜ My portfolio site : https://intothejourneys.github.io/portfolio
 
-https://img.shields.io/badge/js-Javascript-yellow
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+![js](https://img.shields.io/badge/js-Javascript-yellow)
+![react](https://img.shields.io/badge/R-React-9cf)
+![js](https://img.shields.io/badge/js-Javascript-yellow)
+![js](https://img.shields.io/badge/js-Javascript-yellow)
+![js](https://img.shields.io/badge/js-Javascript-yellow)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intothejourneys&show_icons=true&theme=cobalt)
