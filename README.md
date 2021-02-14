@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 주니어 프론트엔드 개발자 권은정입니다 🌈
 
 <!--
 **intothejourneys/intothejourneys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
