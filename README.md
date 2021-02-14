@@ -1,7 +1,7 @@
 ### Hello World! 🚀
 
 I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comfortable experience.</br>
-➜ My portfolio site : intothejourneys.github.io/portfolio
+➜ My portfolio site : [intothejourneys.github.io/portfolio]
 
 <!--
 **intothejourneys/intothejourneys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
