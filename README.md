@@ -1,6 +1,7 @@
 ### Hello World! 🚀
 
 I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comfortable experience.</br>
+
 ➜ My portfolio site : https://intothejourneys.github.io/portfolio
 
 <!--
