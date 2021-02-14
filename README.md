@@ -12,6 +12,10 @@ I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comforta
 ![sql](https://img.shields.io/badge/MySql-lightgrey)
 ![aws](https://img.shields.io/badge/AWS-orange)
 
+✏️
+![ts](https://img.shields.io/badge/Typescript-blue)
+![redux](https://img.shields.io/badge/Redux-blurviolet)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intothejourneys&show_icons=true&theme=cobalt)
 
 <div align=center>
