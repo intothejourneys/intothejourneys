@@ -6,9 +6,10 @@ I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comforta
 ![js](https://img.shields.io/badge/Javascript-yellow)
 ![react](https://img.shields.io/badge/React-9cf)
 ![st](https://img.shields.io/badge/styled.components-ff69b4)
-![js](https://img.shields.io/badge/js-Javascript-yellow)
-![js](https://img.shields.io/badge/js-Javascript-yellow)
-
+![node](https://img.shields.io/badge/Node.js-brightgreen)
+![ex](https://img.shields.io/badge/Express-blue)
+![sql](https://img.shields.io/badge/MySql-lightgrey)
+![aws](https://img.shields.io/badge/AWS-orange)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intothejourneys&show_icons=true&theme=cobalt)
 
