@@ -1,4 +1,6 @@
-### Hi there! 🚀
+### Hello World! 🚀
+
+I am Eunjeong Kwon, a front-end developer who designs unique and comfortable experience.
 
 <!--
 **intothejourneys/intothejourneys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
