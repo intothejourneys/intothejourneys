@@ -3,7 +3,6 @@
 I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comfortable experience.</br>
 ➜ My portfolio site : https://intothejourneys.github.io/portfolio
 
-👌
 ![js](https://img.shields.io/badge/Javascript-yellow)
 ![react](https://img.shields.io/badge/React-9cf)
 ![st](https://img.shields.io/badge/styled.components-ff69b4)
@@ -12,7 +11,6 @@ I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comforta
 ![sql](https://img.shields.io/badge/MySql-lightgrey)
 ![aws](https://img.shields.io/badge/AWS-orange)
 
-✏️
 ![ts](https://img.shields.io/badge/Typescript-blue)
 ![redux](https://img.shields.io/badge/Redux-blurviolet)
 
