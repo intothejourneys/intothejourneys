@@ -5,7 +5,7 @@ I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comforta
 
 ![js](https://img.shields.io/badge/Javascript-yellow)
 ![react](https://img.shields.io/badge/React-9cf)
-![js](https://img.shields.io/badge/js-Javascript-yellow)
+![st](https://img.shields.io/badge/styled components-ff69b4)
 ![js](https://img.shields.io/badge/js-Javascript-yellow)
 ![js](https://img.shields.io/badge/js-Javascript-yellow)
 
