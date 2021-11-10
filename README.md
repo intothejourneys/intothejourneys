@@ -5,6 +5,7 @@ I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comforta
 
 ![js](https://img.shields.io/badge/Javascript-yellow)
 ![react](https://img.shields.io/badge/React-9cf)
+![redux](https://img.shields.io/badge/Redux-blueviolet)
 ![st](https://img.shields.io/badge/styled.components-ff69b4)
 ![node](https://img.shields.io/badge/Node.js-brightgreen)
 ![ex](https://img.shields.io/badge/Express-blue)
@@ -12,7 +13,6 @@ I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comforta
 ![aws](https://img.shields.io/badge/AWS-orange)
 🔗
 ![ts](https://img.shields.io/badge/Typescript-blue)
-![redux](https://img.shields.io/badge/Redux-blueviolet)
   
 <div align=center>
   
