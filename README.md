@@ -11,7 +11,7 @@ I am <b>Eunjeong Kwon</b>, a front-end developer who designs unique and comforta
 ![ex](https://img.shields.io/badge/Express-blue)
 ![sql](https://img.shields.io/badge/MySql-lightgrey)
 ![aws](https://img.shields.io/badge/AWS-orange)
-![GraphQL](https://img.shields.io/badge/-GraphQL)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=appveyor)
 🔗
 ![ts](https://img.shields.io/badge/Typescript-blue)
   
